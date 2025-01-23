@@ -54,9 +54,9 @@ Bạn có thể chạy game qua một server đơn giản:
 * Dùng Python HTTP Server:
 
 ```bash
-python -m http.server 8080
+python -m http.server 7456
 ```
-- Sau đó, mở trình duyệt và truy cập vào http://localhost:8080.
+- Sau đó, mở trình duyệt và truy cập vào http://localhost:7456.
 
 * Dùng Node.js với http-server:
 
@@ -68,9 +68,9 @@ npm install -g http-server
 - Chạy server:
 
 ```bash
-http-server ./build/web -p 8080
+http-server ./build/web -p 7456
 ```
-- Truy cập vào http://localhost:8080 để chơi game.
+- Truy cập vào http://localhost:7456 để chơi game.
 
 ### 🎮 Cách Chơi
 Điều khiển chim: Nhấn Space để cho chim bay lên.
