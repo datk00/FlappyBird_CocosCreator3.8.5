@@ -1,0 +1,12 @@
+{
+  "ver": "1.0.1",
+  "importer": "ttf-font",
+  "imported": true,
+  "uuid": "3ea1c806-1e0f-4ec5-be16-4004931c95ac",
+  "files": [
+    ".json",
+    "flappy-font.ttf"
+  ],
+  "subMetas": {},
+  "userData": {}
+}
